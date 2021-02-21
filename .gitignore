@@ -30,8 +30,8 @@ phpunit.phar
 # phpunit cache
 .phpunit.result.cache
 
-.php_cs
-.php_cs.cache
+# local phpcs config
+/phpcs.xml
 
 # Static analysis
 analysis.txt
